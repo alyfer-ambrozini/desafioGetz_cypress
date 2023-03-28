@@ -22,11 +22,11 @@
 
 ### Demostrações:
 <li>Automação de Cadastro:
-  <br>
+  <br><br>
 <img src="cypress/videos/cadastro.gif"></li>
 <br>
 <li>Automação de Realizar Pedidos:
-  <br>
+  <br><br>
 <img src="cypress/videos/fazer pedido.gif"></li>
 </p>
 </ul>
