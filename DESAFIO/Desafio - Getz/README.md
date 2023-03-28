@@ -15,7 +15,6 @@
 
 ## Iniciando os testes:
 <h3>execute o seguinte comando no terminal</h2>
-<ul>
 <li><i>npx cypress open</i></li>  
 
 ## Abrindo o Cypress:
@@ -36,4 +35,3 @@
   <div text-align="center">
 <img src="cypress/videos/fazer pedido.gif"></li>
   </div>
-</ul>
