@@ -19,7 +19,7 @@
 <li><i>npx cypress open</i></li>  
 
 ## Abrindo o Cypress
-<li>Entre na opção 'E2E Testing'</li>
+  <li>Entre na opção <i>'E2E Testing'</i></li>
 <li>Escolha Chrome ou outro navegador de sua prefêrencia para executar a automação. Em seguida, clica em <i>'Start E2E Testing in'</i></li>
 <li>Escolha entre os dois testes automatizados para executá-los.</li>
 <br>
