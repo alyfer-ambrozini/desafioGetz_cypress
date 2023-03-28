@@ -5,23 +5,23 @@
 <ol>
 <li>Instalar Node.js <br>(https://nodejs.org/en/). </li> 
   <br>
-<li>Instalar o Cypress: <i><br>$npm install cypress</i></li>
+<li>Instalar o Cypress: <i><br>npm install cypress</i></li>
   <br>
-<li>Instalar o Faker: <i><br>$npm install @faker-js/faker --save-dev</i></li>
+<li>Instalar o Faker: <i><br>npm install @faker-js/faker --save-dev</i></li>
   <br>
-<li>Instalar o Faker - Br: <i><br>$npm install faker-br</i></li>
+<li>Instalar o Faker - Br: <i><br>npm install faker-br</i></li>
 <br>
 </ol>
 
 ## iniciando os testes:
 <b>execute o seguinte comando no terminal<b>
 <ul>
-<li><i>$npx cypress open</i></li>  
+<li><i>npx cypress open</i></li>  
 
 ## Abrindo o Cypress
 <li>Entre na opção 'E2E Testing'</li>
-<li>Escolha Chrome ou outro navegador de sua prefêrencia para executar a automação. <i>Clica em 'Start E2E Testing in'</i></li>
-<li>Escolha entre os dois testes automatizados para executa-los</li>
+<li>Escolha Chrome ou outro navegador de sua prefêrencia para executar a automação. Clica em <i>'Start E2E Testing in'</i></li>
+<li>Escolha entre os dois testes automatizados para executá-los.</li>
 <br>
 
 ## Demostrações:
