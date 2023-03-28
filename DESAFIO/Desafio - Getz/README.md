@@ -23,6 +23,7 @@
 ### Demostrações:
 <li>Automação de Cadastro:
 <img src="cypress/videos/cadastro.gif"></li>
+<br>
 <li>Automação de Realizar Pedidos:
 <img src="cypress/videos/fazer pedido.gif"></li>
 </p>
