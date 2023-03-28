@@ -1,7 +1,7 @@
 # cypress-automacao
 <h2>Instruções para testar a automação do Projeto Getz (Cypress)</h2>
 
-### Para configurar o Ambiente:
+## Para configurar o Ambiente:
 <ol>
 <li>Instalar Node.js <br>(https://nodejs.org/en/). </li> 
   <br>
@@ -13,18 +13,18 @@
 <br>
 </ol>
 
-### iniciando os testes:
+## iniciando os testes:
 <b>execute o seguinte comando no terminal<b>
 <ul>
 <li><i>$npx cypress open</i></li>  
 
-### Abrindo o Cypress
+## Abrindo o Cypress
 <li>Entre na opção 'E2E Testing'</li>
 <li>Escolha Chrome ou outro navegador de sua prefêrencia para executar a automação. <i>Clica em 'Start E2E Testing in'</i></li>
 <li>Escolha entre os dois testes automatizados para executa-los</li>
 <br>
 
-### Demostrações:
+## Demostrações:
 <li>Automação de Cadastro:
   <br><br>
 <img src="cypress/videos/cadastro.gif"></li>
