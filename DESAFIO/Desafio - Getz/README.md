@@ -14,7 +14,7 @@
 </ol>
 
 ## Iniciando os testes:
-<h3>execute o seguinte comando no terminal</h2>
+<h3>execute o seguinte comando no terminal:</h2>
 <li><i>npx cypress open</i></li>  
 
 ## Abrindo o Cypress:
