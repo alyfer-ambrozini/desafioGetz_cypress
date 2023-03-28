@@ -13,8 +13,8 @@
 <br>
 </ol>
 
-## iniciando os testes:
-<b>execute o seguinte comando no terminal<b>
+## Iniciando os testes:
+<h2>execute o seguinte comando no terminal</h2>
 <ul>
 <li><i>npx cypress open</i></li>  
 
