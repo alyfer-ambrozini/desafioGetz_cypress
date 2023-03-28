@@ -27,10 +27,13 @@
 ## Demostrações:
 <li>Automação de Cadastro:
   <br><br>
+  <div text-align="center">
 <img src="cypress/videos/cadastro.gif"></li>
+  </div>
 <br>  
 <li>Automação de Realizar Pedidos:
   <br><br>
+  <div text-align="center">
 <img src="cypress/videos/fazer pedido.gif"></li>
-</p>
+  </div>
 </ul>
