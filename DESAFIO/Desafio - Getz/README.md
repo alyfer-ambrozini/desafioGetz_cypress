@@ -3,7 +3,7 @@
 
 ### Para configurar o Ambiente:
 <ol>
-<li>Instalar [Node.js](https://nodejs.org/en/). </li>
+<li>Instalar "[Node.js](https://nodejs.org/en/)". </li>
 <li>Instalar o Cypress: <i>$npm install cypress</i></li>
 <li>Instalar o Faker: <i>$npm install @faker-js/faker --save-dev</i></li>
 <li>Instalar o Faker - Br: <i>$npm install faker-br</i></li>
