@@ -9,7 +9,7 @@
   <br>
 <li>Instalar o Faker: <i><br>$npm install @faker-js/faker --save-dev</i></li>
   <br>
-<li>Instalar o Faker - Br: <i<br>>$npm install faker-br</i></li>
+<li>Instalar o Faker - Br: <i><br>$npm install faker-br</i></li>
 <br>
 </ol>
 
