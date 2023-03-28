@@ -3,10 +3,10 @@
 
 ### Para configurar o Ambiente:
 <ol>
-<li>Instalar "[Node.js](https://nodejs.org/en/)". </li>
-<li>Instalar o Cypress: <i>$npm install cypress</i></li>
-<li>Instalar o Faker: <i>$npm install @faker-js/faker --save-dev</i></li>
-<li>Instalar o Faker - Br: <i>$npm install faker-br</i></li>
+<li>Instalar Node.js <br>(https://nodejs.org/en/). </li>
+<li>Instalar o Cypress: <i><br>$npm install cypress</i></li>
+<li>Instalar o Faker: <i><br>$npm install @faker-js/faker --save-dev</i></li>
+<li>Instalar o Faker - Br: <i<br>>$npm install faker-br</i></li>
 </ol>
 
 ### iniciando os testes:
